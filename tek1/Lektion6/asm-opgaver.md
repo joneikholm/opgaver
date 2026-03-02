@@ -1,5 +1,5 @@
 ---
-title: Lektion 6 – Assembly Opgaver
+title: "Lektion 6 – Assembly Opgaver"
 ---
 
 Brug denne [online editor](https://www.mycompiler.io/new/asm-x86_64)
