@@ -1,4 +1,4 @@
-# Lektion 6 – Assembly Opgaver
+title: Lektion 6 – Assembly Opgaver
 
 ---
 
