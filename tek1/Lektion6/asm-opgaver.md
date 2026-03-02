@@ -1,10 +1,10 @@
-# Lektion 6 – Assembly Øvelser
+# Lektion 6 – Assembly Opgaver
 
 ---
 
 Brug denne [online editor](https://www.mycompiler.io/new/asm-x86_64)
 
-## Øvelse 1 – To Linjer
+## Opgave 1 – To Linjer
 
 Ret *Hello World*, så programmet printer:
 
@@ -19,7 +19,7 @@ Krav:
 
 ---
 
-## Øvelse 2 – Hele Udtrykket
+## Opgave 2 – Hele Udtrykket
 
 Udvid programmet, så det printer:
 
@@ -34,7 +34,7 @@ Krav:
 
 ---
 
-## Øvelse 3 – Kun Lige Tal
+## Opgave 3 – Kun Lige Tal
 
 Ret løkken, så programmet printer:
 
@@ -48,7 +48,7 @@ Krav:
 
 ---
 
-## Øvelse 4 – Kald Funktionen To Gange
+## Opgave 4 – Kald Funktionen To Gange
 
 Programmet skal:
 
@@ -65,7 +65,7 @@ Forventet output:
 
 ---
 
-## Øvelse 5 – Udfordring: To-cifret Resultat
+## Opgave 5 – Udfordring: To-cifret Resultat
 
 Udvid jeres additionsprogram, så det virker korrekt,
 selv hvis resultatet er **to cifre**.
