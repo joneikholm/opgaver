@@ -2,6 +2,8 @@
 
 ---
 
+Brug denne [online editor](https://www.mycompiler.io/new/asm-x86_64)
+
 ## Øvelse 1 – To Linjer
 
 Ret *Hello World*, så programmet printer:
