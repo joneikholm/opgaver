@@ -28,7 +28,7 @@
         radial-gradient(1200px 700px at 15% 20%, #20306a 0%, transparent 55%),
         radial-gradient(900px 600px at 85% 30%, #1e6a5f 0%, transparent 55%),
         linear-gradient(160deg, var(--bg1), var(--bg2));
-      overflow:hidden;
+      overflow:auto;
     }
     .slide{
       height:100%;
@@ -39,14 +39,14 @@
       padding:48px;
     }
     .frame{
-      width:min(1200px, 100%);
-      height:min(675px, 100%);
+      min-height:675px;
+      height:auto;
       border:1px solid rgba(122,167,255,.25);
       border-radius:var(--radius);
       background:linear-gradient(180deg, rgba(255,255,255,.06), rgba(255,255,255,.03));
       box-shadow:var(--shadow);
       position:relative;
-      overflow:hidden;
+      overflow:visible;
     }
     .frame::before{
       content:"";
