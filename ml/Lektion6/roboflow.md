@@ -1,4 +1,4 @@
-# Sådan samler vi billeder og labels til ét fælles datasæt
+# Vi samler billeder og labels til ét fælles datasæt
 
 ---
 
