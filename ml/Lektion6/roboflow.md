@@ -2,10 +2,10 @@
 
 ---
 
-## Forberedelse — læreren gør dette én gang
+## Forberedelse — underviser gør dette én gang
 
 1. Opret et gratis Roboflow-projekt
-2. Beslut klassenavn: `person` — alle skal stave det præcis sådan, med lille p
+2. Beslut klassenavn: f.eks. `person` — alle skal stave det præcis sådan, med lille p
 3. Upload 200 billeder til projektet
 4. Fordel billederne, så hver studerende ved hvilke 10 billeder de skal annotere
 
@@ -35,7 +35,7 @@
 
 1. Importér den store zip-fil ind i dit eget Roboflow-projekt
 2. Generér en ny version af datasættet
-3. Træn modellen i Google Colab
+3. Træn modellen i Google Colab eller på lokal maskine
 4. Sammenlign jeres mAP50-resultater med hinanden
 
 ---
